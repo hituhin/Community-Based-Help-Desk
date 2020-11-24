@@ -1,0 +1,61 @@
+
+/*
+* — User Profile Style <<< —
+*/
+
+.user-profile img {
+	width: 67%;
+}
+
+.col.user-profile-btn-icon {
+	padding: ;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.user-profile-btn-icon .icon {
+	font-size: 14px;
+	margin-right: 5px;
+}
+
+
+.user-profile-rating .icon {
+	font-size: 16px;
+}
+
+.user-p-rate-break .icon.ion-md-medical {
+	font-size: 13px;
+}
+
+.profile-tab li a.nav-link {
+	 border:0px;
+	 padding:15px 20px;
+	 color:#212529
+}
+.profile-tab li a.nav-link.active {
+	 border-bottom:2px solid #009efb;
+	 color:#009efb
+}
+.profile-tab li a.nav-link:hover {
+ 	color:#009efb
+}
+.profiletimeline img {
+
+	width: 55px;
+}
+.review-block-rate .icon {
+	font-size: 11px;
+
+}
+
+.review-block-rate .btn {
+	padding: 0px 5px;
+}
+
+div.second_rev { display:none; }
+
+/*div.2nd_review.active { display:block; }*/
+
+/*
+* — User Profile Style >>> —
+*/
